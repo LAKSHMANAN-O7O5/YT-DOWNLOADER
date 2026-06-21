@@ -24,7 +24,7 @@ A powerful desktop application to download videos, audio, and playlists from You
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YT-DOWNLOADER.git
+   git clone https://github.com/LAKSHMANAN-O7O5/YT-DOWNLOADER.git
    cd YT-DOWNLOADER
    ```
 

@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Large binaries (too big for GitHub, users must download separately)
+ffmpeg.exe
+ffprobe.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/

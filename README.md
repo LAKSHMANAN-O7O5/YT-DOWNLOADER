@@ -62,9 +62,10 @@ The executable will be in the `dist/` folder.
 | `Pillow` | Thumbnail image processing |
 | `requests` | Fetching thumbnails |
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
